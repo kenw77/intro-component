@@ -1,0 +1,35 @@
+/* General Styles */
+
+body {
+	font-family: 'Poppins';
+	font-size: 16px;
+	font-weight: 400;
+	background-image: url("./images/bg-intro-desktop.png");
+	background-color: hsl(0, 100%, 74%); 
+}
+
+h1 {
+	font-size: 30px;
+}
+
+/* Section Styles */
+
+section {
+	padding: 7%;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;	
+}
+
+/* Div Styles */
+
+div {
+	width: 40%;
+}
+
+/* Paragraph Styles */
+
+#heroParagraph {
+	color: white;
+}
+
